@@ -1,0 +1,9 @@
+{
+    "css.trace.server": "verbose",
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.useBrowserPreview": true,
+    "liveServer.settings.useLocalIp": true
+}
